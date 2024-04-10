@@ -1,0 +1,22 @@
+.seccion11 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 85rem 0rem;
+    gap: 1px;
+}
+
+
+.seccion11 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: tomato;
+    display: flex;
+    
+    font-size: 15rem;
+    
+}

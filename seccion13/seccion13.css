@@ -1,0 +1,22 @@
+.seccion13 {
+    
+    
+    width: 190rem;
+    margin: auto;
+
+    display: grid;
+    grid-template-rows: 45rem 0rem;
+    gap: 1px;
+}
+
+
+.seccion13 div {
+    border: solid black;
+    border-radius: 5px;
+
+    background-color: khaki;
+    display: flex;
+    
+    font-size: 15rem;
+    
+}
